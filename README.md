@@ -2,6 +2,8 @@
 Second attempt getting this right.
 # Title:  Knewton - A Potential Employer for Current and Former Educators
 
+
+
 Company Overview: Knewton
 
 Educational Technology is the future of education.  Knewton was established with the vision of personalizing education through adaptive learning technologies. Through the use of artificial intelligence, Knewton's platform analyzes data on how students learn and tailors content to individual learning styles and needs. This approach to teaching and learning not only enhances student engagement and learning outcomes, but also provides teachers with insightful data to better support their students. As a teacher, Knewton is a company I plan to keep an eye on for future advancements in this field.
@@ -20,10 +22,7 @@ From a business standpoint, Knewton has encountered some challenges and must als
 
  Knewton's Response to Industry Challenges:
 
-Knewton addresses these challenges by integrating AI into its adaptive learning platforms. Their technology:
-- Personalizes Learning:** Through their use of algorithms that adapt to the student's learning pace and style, Knewton's platform presents educational material in a way that is most likely to be effective for each student.
-- Data-Driven Insights:** Provides educators with valuable insights backed by data into each student's progress, strengths, and areas needing improvement, enabling more informed teaching strategies.
-- Scalability:** Offers a scalable solution that schools and educational institutions can implement, bringing personalized education to a broader audience.
+Knewton addresses these challenges by integrating AI into its adaptive learning platforms. Their technology personalizes learning through their use of algorithms that adapt to the student's learning pace and style, Knewton's platform presents educational material in a way that is most likely to be effective for each student. They are also using Data-Driven Insights to provide educators with valuable insights backed by data into each student's progress, strengths, and areas needing improvement, enabling more informed teaching strategies. Lastly, Knewton offers a scalable solution that schools and educational institutions can implement, bringing personalized education to a broader audience.
 
 AI Technologies Currently Used by Knewton:
 
